@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "message": "",
+  "enabled": true,
+  "message": "DONE.",
   "disabled_machines": [],
   "min_build": 0,
   "sig": ""
