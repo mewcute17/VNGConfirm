@@ -1,5 +1,5 @@
 {
-  "enabled": flase,
+  "enabled": false,
   "message": "DONE.",
   "disabled_machines": [],
   "min_build": 0,
